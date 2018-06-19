@@ -4,3 +4,8 @@
 | Dependency | Framework | Requester | Status |
 |------------|-----------|-----------|--------|
 | quick.db   | Node.js   | error2507#6116 | ✔️ |
+
+
+# Request Dependency
+
+Dependencies können entweder über Discord oder über [**dieses Formular**](https://docs.google.com/forms/d/e/1FAIpQLSd-YxDDRRXjqZmtmk3yDIL5_5D2NtQIBkn3L4kMP7F3lJMssA/viewform?usp=sf_link) requested werden.
