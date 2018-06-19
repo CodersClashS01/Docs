@@ -13,6 +13,10 @@
  
 ---
 
+> `v.1.1` - `19.06.2018`
+
+---
+
 ## Index
 
 1. [Einleitung](#einleitung)
@@ -59,7 +63,7 @@ Somit werden am **18. August 2018** die Ergebnisse veröffentlicht.
 - Die Bots müssen einen Test-Modus mitbringen, welche in der CI genutzt werden können.
 - Die Bots müssen auf Linux Debian laufen.
 - Sollte ein Bot in der Testphase crashen wird dieser nur neu gestartet, wenn es sich dabei um einen Disconnect, Timeout oder sonst einen Fehler der Umgebung handeln sollte. Ansonsten ist ab dem Zeitpunkt des Crashes die Testphase für den Bot beendet, darf jedoch beim Voting noch Teilnehmen.
-- Nur die unten genannten 3rd-Party-Libraries und -Dependencies dürfen verwendet werden. Dies gilt auch für selbst entwickelte Libraries oder Dependencies!
+- Generell dürfen alle Packages der Languages und Wrapper benutz werden. Sollte ein Team unbedingt 3rd-Party-Libraries benötigen, so können diese in Absprache mit dem Discord-Staff-Team benutzt werden.
 - Der Bot muss eine Konfigurationsdatei beinhalten, mit der Dinge wie Token, Prefix, Datenbankdaten und Botowner einstellbar sind.
 - Die Bots müssen eine Dokumentation ihrer Commands mitbringen *(z.B. in Form einer Website, online PDF oder eines Gist auf GitHub bzw. in der Readme oder im Wiki der Repository)*.
 
