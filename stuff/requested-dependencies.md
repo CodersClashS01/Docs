@@ -4,6 +4,7 @@
 | Dependency | Framework | Requester | Status |
 |------------|-----------|-----------|--------|
 | quick.db   | Node.js   | error2507#6116 | ✔️ |
+| commons-io | Java      | strukteonه#7237 | ✔️ | 
 
 
 # Request Dependency
