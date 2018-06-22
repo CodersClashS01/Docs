@@ -99,6 +99,17 @@
 
 ---
 
+# Team "Fresh Devs"
+
+**Wrapper:** `discord.js (Node.js)`
+
+**Members:**  
+- UnlegitHax#4850 (346680223082741770)
+- Niklas#4949 (384073151598034944)
+- byBackfisch#4941 (369005267158827024)
+
+---
+
 # Wrapper Statistics
 
 ![](http://zekro.de/ss/chrome_2018-06-22_19-30-38.png)
