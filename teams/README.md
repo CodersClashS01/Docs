@@ -1,6 +1,6 @@
 # Team "DiscordDevMembers"
 
-> Wrapper: ´JDA (Java)´
+**Wrapper:** ´JDA (Java)´
 
 **Member:**  
 - TeeeTime#9634 (359013020057206786)
@@ -13,7 +13,7 @@
 
 # Team "Faule Hunde"
 
-> Wrapper: ´discord.py (Python)´
+**Wrapper:** ´discord.py (Python)´
 
 **Member:**  
 - Vale#0003 (301790265725943808)
@@ -26,7 +26,7 @@
 
 # Team "BlockLion Dev Team"
 
-> Wrapper: ´JDA (Java)´
+**Wrapper:** ´JDA (Java)´
 
 **Member:**  
 - Looat#0001 (422373229278003231)
@@ -38,7 +38,7 @@
 
 # Team "TheBotDev"
 
-> Wrapper: ´discord.py (Python)´
+**Wrapper:** ´discord.py (Python)´
 
 **Member:**  
 - BaseChip#2390 (333220752117596160)
@@ -50,7 +50,7 @@
 
 # Team "Skill-Silence"
 
-> Wrapper: ´Discord4J (Java)´
+**Wrapper:** ´Discord4J (Java)´
 
 **Member:**  
 - SkillerRaptor#5056 (247730665733357568)
@@ -60,7 +60,7 @@
 
 # Team "Rex"
 
-> Wrapper: ´discord.js (Node.js)´
+**Wrapper:** ´discord.js (Node.js)´
 
 **Member:**  
 - Vale#0003 (301790265725943808)
@@ -73,7 +73,7 @@
 
 # Team "UnhandledExceptions"
 
-> Wrapper: ´JDA (Java)´
+**Wrapper:** ´JDA (Java)´
 
 **Member:**  
 - oskar#7402 (226011931935375360)
@@ -85,7 +85,7 @@
 
 # Team "Knight"
 
-> Wrapper: ´JDA (Java)´
+**Wrapper:** ´JDA (Java)´
 
 **Member:**  
 - ConCode#0139 (289077956976967680)
