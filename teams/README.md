@@ -101,3 +101,7 @@
 - strukteon#7237 (262951897290244096)
 
 ---
+
+# Wrapper Statistics
+
+![](http://zekro.de/ss/chrome_2018-06-22_19-30-38.png)
