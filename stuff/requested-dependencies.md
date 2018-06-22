@@ -9,9 +9,6 @@
 | [LavaPlayer](https://github.com/sedmelluq/lavaplayer) | Java | Looat#0001 | ✔️ 
 | [peewee](https://pypi.org/project/peewee/) | Python | romangraef89#0998 | ✔️ 
 
-**Anmerkungen:**  
-- *(1)* Sollte ein Team für irgend einen Command dennoch einen SoundPlayer benötigen kann man im nachhinein die Library auch noch freigeben unter Absprache mit dem Staff-Team.
-
 # Request Dependency
 
 Dependencies können entweder über Discord oder über [**dieses Formular**](https://docs.google.com/forms/d/e/1FAIpQLSd-YxDDRRXjqZmtmk3yDIL5_5D2NtQIBkn3L4kMP7F3lJMssA/viewform?usp=sf_link) requested werden.
