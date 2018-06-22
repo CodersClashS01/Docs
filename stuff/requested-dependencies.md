@@ -9,7 +9,7 @@
 | [LavaPlayer](https://github.com/sedmelluq/lavaplayer) | Java | Looat#0001 | ✖️ | Music Library wird nicht benötigt *(1)*
 
 **Anmerkungen:**  
-- *(1)* Sollte ein Team für irgend einen Command dennoch einen SoundPlayer benötigen kann man im nachhinein die Library auch noch freigeben unter Absprache mit dem Staf-Team.
+- *(1)* Sollte ein Team für irgend einen Command dennoch einen SoundPlayer benötigen kann man im nachhinein die Library auch noch freigeben unter Absprache mit dem Staff-Team.
 
 # Request Dependency
 
