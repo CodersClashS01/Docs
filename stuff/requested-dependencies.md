@@ -1,11 +1,12 @@
 # Requested Dependencies
 
 
-| Dependency | Framework | Requester | Status |
-|------------|-----------|-----------|--------|
+| Dependency | Framework | Requester | Status | Begründung |
+|------------|-----------|-----------|--------|------------|
 | [quick.db](https://www.npmjs.com/package/quick.db)   | Node.js   | error2507#6116 | ✔️ |
 | [commons-io](https://commons.apache.org/proper/commons-io/) | Java      | strukteon#7237 | ✔️ | 
 | [discord-api-command](https://github.com/JohnnyJayJay/discord-api-command) | Java | Johnny#3826 | ✔️ |
+| [LavaPlayer](https://github.com/sedmelluq/lavaplayer) | Java | Looat#0001 | ❌ | WMusic Library wird nicht benötigt
 
 # Request Dependency
 
