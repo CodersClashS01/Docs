@@ -1,12 +1,12 @@
 # Requested Dependencies
 
 
-| Dependency | Framework | Requester | Status | Begründung |
-|------------|-----------|-----------|--------|------------|
+| Dependency | Framework | Requester | Status |
+|------------|-----------|-----------|--------|
 | [quick.db](https://www.npmjs.com/package/quick.db)   | Node.js   | error2507#6116 | ✔️ |
 | [commons-io](https://commons.apache.org/proper/commons-io/) | Java      | strukteon#7237 | ✔️ | 
 | [discord-api-command](https://github.com/JohnnyJayJay/discord-api-command) | Java | Johnny#3826 | ✔️ |
-| [LavaPlayer](https://github.com/sedmelluq/lavaplayer) | Java | Looat#0001 | ✖️ | Music Library wird nicht benötigt *(1)*
+| [LavaPlayer](https://github.com/sedmelluq/lavaplayer) | Java | Looat#0001 | ✔️ 
 | [peewee](https://pypi.org/project/peewee/) | Python | romangraef89#0998 | ✔️ 
 
 **Anmerkungen:**  
