@@ -4,7 +4,7 @@
 | Dependency | Framework | Requester | Status |
 |------------|-----------|-----------|--------|
 | [quick.db](https://www.npmjs.com/package/quick.db)   | Node.js   | error2507#6116 | ✔️ |
-| [commons-io](https://commons.apache.org/proper/commons-io/) | Java      | strukteonه#7237 | ✔️ | 
+| [commons-io](https://commons.apache.org/proper/commons-io/) | Java      | strukteon#7237 | ✔️ | 
 | [discord-api-command](https://github.com/JohnnyJayJay/discord-api-command) | Java | Johnny#3826 | ✔️ |
 
 # Request Dependency
