@@ -49,7 +49,7 @@
 
 # Team "Skill-Silence"
 
-**Wrapper:** `Discord4J (Java)`
+**Wrapper:** `JDA (Java)`
 
 **Member:**  
 - SkillerRaptor#5056 (247730665733357568)
