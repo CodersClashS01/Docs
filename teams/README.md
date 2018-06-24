@@ -37,7 +37,7 @@
 
 # Team "TheBotDev"
 
-**Wrapper:** `discord.py (Python`
+**Wrapper:** `discord.py (Python)`
 
 **Member:**  
 - BaseChip#2390 (333220752117596160)
