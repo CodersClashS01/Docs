@@ -8,6 +8,8 @@
 | [discord-api-command](https://github.com/JohnnyJayJay/discord-api-command) | Java | Johnny#3826 | ✔️ |
 | [LavaPlayer](https://github.com/sedmelluq/lavaplayer) | Java | Looat#0001 | ✔️ 
 | [peewee](https://pypi.org/project/peewee/) | Python | romangraef89#0998 | ✔️ 
+| [mysql-connector-java](https://mvnrepository.com/artifact/mysql/mysql-connector-java) | Java | ConCode#0139 | ✔️ 
+| [thumbnailator](https://mvnrepository.com/artifact/net.coobird/thumbnailator) | Java | ConCode#0139 | ✔️
 
 # Request Dependency
 
