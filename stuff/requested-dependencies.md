@@ -16,6 +16,7 @@
 | [Beautiful Soup](https://github.com/waylan/beautifulsoup) | Python | Vale#0003 | ✔️
 | [mysql](https://github.com/mysqljs/mysql) | Node.js | UnlegitHax#4850 | ✔️
 | [HikariCP](https://github.com/brettwooldridge/HikariCP) | Java | oskar#7402 | ✔️
+| [slf4j-simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple) | Java | oskar#7402 | ✔️
 
 # Request Dependency
 
