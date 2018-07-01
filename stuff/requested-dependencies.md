@@ -20,6 +20,7 @@
 | [snakeyaml](https://bitbucket.org/asomov/snakeyaml/src/default/) | Java | LGA1151#2818 | ✔️ 
 | [logback](https://github.com/qos-ch/logback) | Java | LGA1151#2818 | ✔️ 
 | [Mongo-Java-Driver](https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver) | Java | SkillerRaptor#5056 | ✔️
+| [ExpiringMap](https://github.com/jhalterman/expiringmap) | Java | LGA1151#2818 | ✔️ 
 
 # Request Dependency
 
