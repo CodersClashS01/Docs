@@ -17,6 +17,9 @@
 | [mysql](https://github.com/mysqljs/mysql) | Node.js | UnlegitHax#4850 | ✔️
 | [HikariCP](https://github.com/brettwooldridge/HikariCP) | Java | oskar#7402 | ✔️
 | [slf4j-simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple) | Java | oskar#7402 | ✔️
+| [snakeyaml](https://bitbucket.org/asomov/snakeyaml/src/default/) | Java | LGA1151#2818 | ✔️ 
+| [logback](https://github.com/qos-ch/logback) | Java | LGA1151#2818 | ✔️ 
+| [Mongo-Java-Driver](https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver) | Java | SkillerRaptor#5056 | ✔️
 
 # Request Dependency
 
