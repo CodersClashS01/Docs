@@ -21,6 +21,9 @@
 | [logback](https://github.com/qos-ch/logback) | Java | LGA1151#2818 | ✔️ 
 | [Mongo-Java-Driver](https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver) | Java | SkillerRaptor#5056 | ✔️
 | [ExpiringMap](https://github.com/jhalterman/expiringmap) | Java | LGA1151#2818 | ✔️ 
+| [Pillow](https://github.com/python-pillow/Pillow) | Python | Vale#0003 | ✔️ 
+| [Tensorflow-gpu](https://www.tensorflow.org) | Python | Leterax#6932 | ✔️ 
+| [SLF4J](https://www.slf4j.org/) | Java | Johnny#3826 | ✔️ 
 
 # Request Dependency
 
