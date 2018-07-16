@@ -13,3 +13,8 @@
 ```
 
 ---
+
+`v.1.2`
+
+- Die CI-Tests wurden nun kpmplett entfernt. Das bedeutet, es wird auch keine Punkt mehr darauf geben, sodass 300 Punkte weniger in die Gesamtauswertung einfließen werden.
+- Die Staff-Wertung ist nun mit 350 statt 300 Punkten gewichtet, sodass die Gesamtpunktzahl nun 1500 Punkte beträgt.
