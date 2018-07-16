@@ -27,6 +27,8 @@
 | [gson](https://github.com/google/gson) | Java | Conny#0139 | ✔️ 
 | [Paladins-Java-API](https://github.com/HeyZeer0/Paladins-Java-API) | Java | Conny#0139 | ✔️ 
 | [sequelize](https://github.com/sequelize/sequelize) | Node.js | DwarfLop#0021 | ✔️ 
+| [got](https://github.com/sindresorhus/got) | Node.js | UnlegitHax#4850 | ✔️ 
+| [superagent](https://github.com/visionmedia/superagent) | Node.js | UnlegitHax#4850 | ✔️ 
 
 # Request Dependency
 
