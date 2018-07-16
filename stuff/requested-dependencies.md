@@ -29,6 +29,7 @@
 | [sequelize](https://github.com/sequelize/sequelize) | Node.js | DwarfLop#0021 | ✔️ 
 | [got](https://github.com/sindresorhus/got) | Node.js | UnlegitHax#4850 | ✔️ 
 | [superagent](https://github.com/visionmedia/superagent) | Node.js | UnlegitHax#4850 | ✔️ 
+| [mysql2](https://github.com/sidorares/node-mysql2/) | Node.js | DwarfLop#0021 | ✔️ 
 
 # Request Dependency
 
