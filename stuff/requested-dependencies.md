@@ -32,4 +32,4 @@
 
 # Request Dependency
 
-Dependencies können entweder über Discord oder über [**dieses Formular**](https://docs.google.com/forms/d/e/1FAIpQLSd-YxDDRRXjqZmtmk3yDIL5_5D2NtQIBkn3L4kMP7F3lJMssA/viewform?usp=sf_link) requested werden.
+Dependencies können entweder über Discord PN an `zekro#9131` oder über eine **Pull Request** zu diesem Formular eingereicht werden.
