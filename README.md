@@ -60,7 +60,6 @@ Somit werden am **18. August 2018** die Ergebnisse veröffentlicht.
 # Regeln
 
 - Selbstverständlich müssen die Bots in den gegebenen Environments selbstständig und stabil laufen.
-- Die Bots müssen einen Test-Modus mitbringen, welche in der CI genutzt werden können.
 - Die Bots müssen auf Linux Debian laufen.
 - Sollte ein Bot in der Testphase crashen wird dieser nur neu gestartet, wenn es sich dabei um einen Disconnect, Timeout oder sonst einen Fehler der Umgebung handeln sollte. Ansonsten ist ab dem Zeitpunkt des Crashes die Testphase für den Bot beendet, darf jedoch beim Voting noch Teilnehmen.
 - Generell dürfen alle Packages der Languages und Wrapper benutz werden. Sollte ein Team unbedingt 3rd-Party-Libraries benötigen, so können diese in Absprache mit dem Discord-Staff-Team benutzt werden.
@@ -94,16 +93,6 @@ Rust     | discord-rs<br>serenity
 Ruby     | discordrb
 
 Zudem sind Libraries um auf eine Datenbank zugreifen zu können erlaubt.
-
-### Repository Tests
-
-> **Achtung:** Das Team kann entscheiden ob sie als CI travis-ci oder jenkins nutzen wollen.
-
-System | Type | Description
--------|------|-------------
-travis-ci | CI | - Build<br>- Start<br>- Tests
-jenkins | CI | - Build<br>- Start<br>- Tests
-codacy | Code Review and Analysis | - Code Review<br>- Style Analysis<br>- Error check
 
 ---
 
@@ -147,13 +136,12 @@ Natürlich können auch noch weitere dinge in den Bot implementiert werden, welc
 
 | | | |
 |---|---|---|
-| CI Test (Travis / Jenkins) | - Build<br>- Run/Login<br>- Tests | `+ 100 P`<br>`+ 100 P`<br>`+ 100 P` |
 | codacy | - A<br>- B<br>- C<br>- D<br>- E<br>- F | `+ 150 P`<br>`+ 100 P`<br>`+ 50 P`<br>`+ 10 P`<br>`0 P`<br>`0 P` |
 | User Voting | Anteil der Stimmen des Bots multipliziert mit 1000 Punkten. | `Bot-Stimmen / Gesamtstimmen * 1000 P` |
-| Staff Voting | Anteil der Stimmen des Bots multipliziert mit 300 Punkten. | `Bot-Stimmen / Gesamtstimmen * 300 P` |
+| Staff Voting | Anteil der Stimmen des Bots multipliziert mit 300 Punkten. | `Bot-Stimmen / Gesamtstimmen * 350 P` |
 | Bot-Crash während Testphase | | `- 500 P` |
 | Bot startet nicht auf Test-System | Disqualifikation | |
-| **Gesamtzahl erreichbarer Punkte** | | **`1750 P`** |
+| **Gesamtzahl erreichbarer Punkte** | | **`1500 P`** |
 
 ---
 
