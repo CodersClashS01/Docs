@@ -26,6 +26,7 @@
 | [SLF4J](https://www.slf4j.org/) | Java | Johnny#3826 | ✔️ 
 | [gson](https://github.com/google/gson) | Java | Conny#0139 | ✔️ 
 | [Paladins-Java-API](https://github.com/HeyZeer0/Paladins-Java-API) | Java | Conny#0139 | ✔️ 
+| [sequelize](https://github.com/sequelize/sequelize) | Node.js | DwarfLop#0021 | ✔️ 
 
 # Request Dependency
 
