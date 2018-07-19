@@ -109,8 +109,4 @@
 - DwarfLop#0021 (336559966183882763)
 - byBackfisch#4941 (369005267158827024)
 
----
 
-# Wrapper Statistics
-
-![](http://zekro.de/ss/chrome_2018-06-22_19-30-38.png)
