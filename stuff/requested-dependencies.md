@@ -32,6 +32,7 @@
 | [mysql2](https://github.com/sidorares/node-mysql2/) | Node.js | DwarfLop#0021 | ✔️ 
 | [colors](http://npmjs.com/package/colors) | Node.js | DwarfLop#0021 | ✔️ 
 | [BiMap (Google Guava)](https://github.com/google/guava/blob/master/guava/src/com/google/common/collect) | Java | Johnny#3826 | ✔️ 
+| [jfreechart](https://github.com/jfree/jfreechart) | Java | oskar#7402 | ✔️ 
 
 # Request Dependency
 
